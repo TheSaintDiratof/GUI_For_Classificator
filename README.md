@@ -1,8 +1,3 @@
 # GUI_For_Classificator
 GUI for neural network classificator on tensorflow
-For now, this can:
-  *Classificating on 2 groups \n
-  *Work poorly
-  *Bad choices ways to files
-  *But this is working
-I don't know what I can add here yet 
+For now, this can: classificating on 2 groups, work poorly, bad choices ways to files. It's just works.
